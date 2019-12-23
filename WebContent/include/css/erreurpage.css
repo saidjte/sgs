@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+/*AGENCYB, aguafina,BeautyDemo,Chapbook,TheBlacklist,UTMNeutra,"WolfgangCaps Italic" */
+@import url(fonts/fonts.css);
+
+.messageErreur {
+    margin: 11em auto;
+    width: 33em;
+    text-align: center;
+    box-shadow: 11px 11px 11px #a6adbf8f;
+    border: 1px dashed gray;
+}
+
+p {
+    font-size: 17px;
+    font-family: UTMNeutra;
+    color: red;
+}
+
+a {
+    font-family: Chapbook;
+    text-decoration: none;
+    color: green;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: aguafina;
+    color: crimson;
+    margin: 0px;
+}
+
+img {
+    height: 8em;
+}
+
+body{
+	background: #FFF url(../imgs/Loginarea_Background.png) repeat top left;
+}

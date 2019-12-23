@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'UTMNeutra';
+	src: url('./UTMNeutra.eot');
+	src: local('UTMNeutra'), url('./UTMNeutra.woff') format('woff'),
+		url('./UTMNeutra.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_79354">Text with this font applied</p> */
+.fontsforweb_fontid_79354 {
+	font-family: 'UTMNeutra' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

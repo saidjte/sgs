@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "WolfgangCaps Italic";
+	src: url("b6ba2ba8e6af383eac7f7702e7d6562f.eot"); /* IE9*/
+	src: url("b6ba2ba8e6af383eac7f7702e7d6562f.eot?#iefix")
+		format("embedded-opentype"), /* IE6-IE8 */
+  url("b6ba2ba8e6af383eac7f7702e7d6562f.woff2") format("woff2"),
+		/* chrome?firefox */
+  url("b6ba2ba8e6af383eac7f7702e7d6562f.woff") format("woff"),
+		/* chrome?firefox */
+  url("b6ba2ba8e6af383eac7f7702e7d6562f.ttf") format("truetype"),
+		/* chrome?firefox?opera?Safari, Android, iOS 4.2+*/
+  url("b6ba2ba8e6af383eac7f7702e7d6562f.svg#WolfgangCaps Italic")
+		format("svg"); /* iOS 4.1- */
+}

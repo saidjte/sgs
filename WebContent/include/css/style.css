@@ -1,0 +1,369 @@
+/* NiconneRegular,AGENCYB,aguafina,BeautyDemo,Chapbook,TheBlacklist,UTMNeutra,"WolfgangCaps Italic" */
+@import url(fonts/fonts.css);
+
+h2 {
+    color: #0095ff;
+}
+p.msge {
+	text-align: center;
+	font-size: 15px;
+	font-family: UTMNeutra;
+	color: #d32f2f;
+}
+
+.f1 input[type="text"], .f1 input[type="number"] {
+    width: 20em;
+}
+.f1 select {
+    width: 21.5em;
+    font-family: AGENCYB;
+    text-align: center;
+    color: #740c65;
+}
+#tbdet th {
+	text-align: center;
+	background-color: #AFBCE0;
+	color: white;
+	font-family: UTMNeutra;
+}
+#tbdet tr:nth-child(even){
+	background-color: #e2e8f9;
+	}
+
+#tbdet .listbotons, #tbdet input {
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-family: Chapbook;
+    font-size: 17px;
+    color: #3f51b5;
+}
+
+.footer em {
+    font-family: Chapbook;
+}
+#Detaille th {
+    width: 30%;
+    font-family: Chapbook;
+}
+label.userinfo {
+    width: 22%;
+    display: inline-block;
+    font-family: Chapbook;
+}
+#Bienvenu {
+    display: block;
+    margin: 12em auto;
+    border: 1px solid #dad8d3;
+    text-align: center;
+    box-shadow: 0px 2px 5px #b3c7fc;
+    width: 66%;
+}
+
+#Bienvenu h1 {
+    font-family: aguafina;
+    font-size: 3em;
+    text-align: center;
+}
+
+b#importont {
+	color: red;
+	font-size: 22px;
+	font-family: UTMNeutra;
+}
+
+#confirmation {
+	display: flex;
+	justify-content: space-between;
+	margin: auto 33%;
+}
+
+#confirmation_formp {
+	text-align: center;
+}
+
+#userinfo p {
+	font-family: UTMNeutra;
+	font-size: 15px;
+	margin: 0px auto 5px auto;
+}
+
+input[type="submit"] {
+	color: #fff;
+	background: #b3c7fc;
+	padding: 5px;
+	border-radius: 11px;
+	font-family: Chapbook;
+	font-size: 16px;
+	border: solid gray 1px;
+	cursor: pointer;
+}
+
+#userinfo input[type="submit"] {
+	float: right;
+}
+
+#userinfo {
+	margin: auto;
+	box-shadow: 0px 2px 5px #b3c7fc;
+	border: 1px dashed #6c6c6c;
+}
+
+#userinfo legend {
+	text-align: center;
+}
+
+#userinfo ul {
+	margin: auto;
+	list-style: none;
+}
+
+div#sideBar {
+	flex-basis: 30%;
+}
+
+div#Éditer {
+	float: right;
+	margin: 11px 22px;
+}
+
+article {
+	width: 625px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+#option {
+	margin: auto;
+	box-shadow: 0px 2px 5px #b3c7fc;
+}
+
+div #menuhome {
+	flex-basis: 66%;
+	box-shadow: 0px 2px 5px #b3c7fc;
+	display: flex;
+	justify-content: space-evenly;
+	border: 1px dashed #6c6c6c;
+	margin: 1.2em auto;
+}
+
+#fieldset {
+	flex-basis: 66%;
+	margin: auto;
+	box-shadow: 0px 2px 5px #b3c7fc;
+	justify-content: space-evenly;
+	border: 1px dashed #6c6c6c;
+}
+
+
+ul {
+	list-style-type: circle;
+}
+
+fieldset ul a {
+	color: #5977e4;
+	text-decoration: none;
+}
+
+header .men1 {
+	list-style: none;
+	text-align: left;
+	direction: ltr;
+	padding: 5px;
+	margin: 5px;
+	background-color: rgb(224, 229, 241);
+	width: auto;
+	border-radius: 11px;
+	box-shadow: 5px 5px 22px #b7bcbf;
+}
+
+.men1 li {
+	display: inline-block;
+	margin-right: 6px;
+}
+
+.men1 li a {
+	font-family: Chapbook;
+	font-size: 20px;
+	color: #4a5fab;
+	text-decoration: none;
+	margin-bottom: 0;
+}
+
+.men1 li a:hover {
+	color: dodgerblue;
+	box-shadow: inset 0px 0px 5px 0px #b3c7fc;
+	background: #ced0d6;
+}
+
+body {
+	font-family: AGENCYB;
+	font-size: 1.0rem;
+	color: #3c4752;
+	text-align: left;
+	width: 75%;
+	margin-top: 2px;
+	margin-bottom: 6px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #FFF url(../imgs/Loginarea_Background.png) repeat top left;
+}
+
+.main {
+	margin: auto;
+	padding: 11px;
+	width: 75%;
+	background-color: rgba(123, 203, 239, 0.19);
+	display: inline-block;
+}
+
+
+
+.sidebar p {
+	font-size: 12px;
+	margin-right: 2px;
+	margin-left: 2px;
+	padding: 3px;
+}
+
+.sidebar img {
+	float: left;
+	margin: 5px;
+}
+
+
+.lege-Login {
+	font-family: aguafina;
+	font-size: 22px;
+}
+
+legend {
+	font-family: aguafina;
+	font-size: 26px;
+	color: #0095ff;
+}
+
+.f1 {
+	color: #5d1414;
+	font-family: Chapbook;
+}
+
+.f1 label {
+	color: #685fab;
+	font-family: Chapbook;
+	font-size: 16px;
+	border: 5px rgb(179, 199, 252);
+	display: inline-block;
+	margin: 10px;
+	text-align: left;
+	width: 180px;
+}
+
+.f1 input {
+	text-align: center;
+	font-family: AGENCYB;
+	font-size: 14px;
+	font-style: oblique;
+	color: #740c50;
+	margin: 3px;
+}
+
+#logo {
+	width: 30%;
+	margin: auto;
+}
+
+#ads {
+	display: inline-block;
+	width: 70%;
+}
+
+.f1 .envoyer {
+	font-family: Chapbook;
+	text-align: left;
+	color: white;
+	align-items: center;
+	background-color: rgb(179, 199, 252);
+	padding: 6px;
+	float: right;
+	display: block;
+}
+
+.sel1 {
+	font-family: collapse;
+}
+
+li {
+	font-family: Chapbook;
+	font-size: 18px;
+}
+
+.footer {
+	text-align: right;
+	font-family: aguafina;
+	color: #0095ff;
+}
+
+div#main {
+	display: flex;
+	flex-direction: row-reverse;
+	align-items: stretch;
+}
+
+#Editer legend {
+	text-align: center;
+}
+
+#Editer img {
+	padding: 0 11px;
+}
+
+#options legend {
+	text-align: center;
+}
+
+p.msg {
+	text-align: center;
+	font-size: 15px;
+	font-family: UTMNeutra;
+	color: green;
+}
+
+#options input {
+	border: none;
+	background: none;
+	cursor: pointer;
+	font-family: Chapbook;
+	font-size: 17px;
+	color: black;
+}
+fieldset#options {
+    border: 1px dashed #6c6c6c;
+    box-shadow: 0px 2px 5px #b3c7fc;
+    margin: auto;
+}
+div.Fornisseurs,div.produit {
+    text-align: center;
+    font-family: UTMNeutra;
+    margin: auto;
+}
+figcaption a {
+    color: #6c6c6c;
+    text-decoration: none;
+}
+
+.user_pic {
+    float: right;
+    width: 30%;
+}
+
+#fieldset table {
+    margin: auto;
+    width: 66%;
+}
+#fieldset table a {
+	font-family: Chapbook;
+    text-decoration-line: none;
+    color: #3f51b5;
+    font-size: 1em;
+}

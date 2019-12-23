@@ -1,0 +1,87 @@
+/*AGENCYB, aguafina,BeautyDemo,Chapbook,TheBlacklist,UTMNeutra,"WolfgangCaps Italic" */
+@import url(fonts/fonts.css);
+
+
+body {
+	width: 100%;
+	margin-left: auto;
+	background: #eee;
+	background: #FFF url(../imgs/Loginarea_Background.png) repeat top left;
+}
+
+#login fieldset {
+	width: 33%;
+	border: dashed gray 1px;
+	border-radius: 22px;
+	margin: 100px auto;
+	margin-bottom: auto;
+	padding: 33px;
+	text-align: center;
+	box-shadow: 11px 11px 11px #a6adbf8f;
+}
+
+#login legend {
+	font-family: aguafina;
+	font-size: 22px;
+	color: #425db4;
+	border: 1px dashed #cecece;
+	border-radius: 6px;
+	padding: 0px 44px;
+	background: #eeeeee;
+}
+
+.logo img {
+	width: 222px;
+	height: 111px;
+}
+
+form label {
+	display: inline-block;
+	width: 152px;
+}
+
+form input {
+	margin: 11px;
+}
+
+input#logpass, input#loguser {
+	border: 1px dotted #83a2fc85;
+	font-family: Chapbook;
+	font-size: 18px;
+	text-align: center;
+}
+
+#authentifier {
+	color: #425db9;
+	padding: 5px;
+	width: 25%;
+	border-radius: 11px;
+	font-family: Chapbook;
+	font-size: 16px;
+	border: dashed gray 1px;
+	cursor: pointer;
+}
+
+.footer {
+	text-align: end;
+	font-family: aguafina;
+	color: #bd0ebf;
+}
+
+form label {
+	font-family: Chapbook;
+	font-size: 19px;
+	display: inline-block;
+	width: 152px;
+}
+
+form input {
+	margin: 11px;
+}
+
+h2.login {
+	text-align: center;
+	font-family: UTMNeutra;
+	font-size: 16px;
+	color: red;
+}

@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'aguafina';
+	src: url('./aguafina.eot');
+	src: local('Aguafina'), url('./AguafinaScript-Regular.ttf')
+		format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_80467">Text with this font applied</p> */
+.fontsforweb_fontid_80467 {
+	font-family: 'Aguafina' !important;
+}
